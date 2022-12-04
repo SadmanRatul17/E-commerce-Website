@@ -1,0 +1,13 @@
+.cart-container{
+    background-color: rgba(255,153, 0, 0.3);
+
+    margin-right: 10px;
+}
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 25px 20px;
+}
+#order{
+    text-align: center;
+}

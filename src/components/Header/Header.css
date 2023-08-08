@@ -14,6 +14,20 @@
 .options a:hover{
     color: orange;
 }
-.about{
+.signup{
     margin-right: 97px;
+    margin-left: 5px;
+}
+.color{
+    color: white;
+}
+button{
+    border-radius: 5px;
+    margin: 2px 1px;
+}
+button:hover{
+    color: white;
+    background-color:#1C2B35 ;
+    cursor: pointer;
+    
 }
